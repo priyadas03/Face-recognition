@@ -1,1 +1,21 @@
-# Face-recognition
+# Face-recognition C++ 
+
+# Agenda
+
+## **Install OPENCV(WINDOWS)**
+## **Read Image**
+## **Make Camera**
+## **Face Detection & Count Face**
+
+**step 1: search   https://github.com/opencv/opencv/releases**
+        **then download opencv for your windows** 
+        **then setup environment  --> need tutorial just contact me...**
+
+
+**step 2: download Visual studio community version**
+it's a long process(time taking) ,so just be calm and steady
+**need tutorial just contact me...**
+
+
+
+
