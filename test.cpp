@@ -1,3 +1,5 @@
+//Run this code on visual studio 
+
 #include <opencv2/imgcodecs.hpp>
 #include <opencv2/highgui.hpp>
 #include <opencv2/imgproc.hpp>
